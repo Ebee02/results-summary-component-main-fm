@@ -160,7 +160,11 @@ function App() {
       </main>
       <div className="attribution font-semibold text-center mb-4">
         Challenge by{" "}
-        <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">
+        <a
+          href="https://www.frontendmentor.io?ref=challenge"
+          className="text-blue-500 cursor-not-allowed"
+          target="_blank"
+        >
           Frontend Mentor
         </a>
         . Coded by{" "}
