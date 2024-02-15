@@ -5,7 +5,7 @@ function App() {
   return (
     <>
       <main className="min-h-screen antialiased flex justify-center text-[18px]">
-        <div className="main-container w-[350px] md:w-[900px] min-h-screen  flex flex-col md:flex-row md:gap-x-2 items-center m-6 shadow-gray-500 shadow-md rounded-b-3xl md:rounded-3xl">
+        <div className="main-container w-[350px] md:w-[900px] md:h-[550px]  flex flex-col md:flex-row md:gap-x-2 items-center m-6 shadow-gray-500 shadow-md rounded-b-3xl md:rounded-3xl">
           <div className="first-container flex-1 h-full rounded-b-3xl md:rounded-3xl flex flex-col items-center py-4 md:py-6 px-6 md:px-12 text-white">
             <h3 className="font-semibold text tracking-wide mb-4 md:mb-7 text-[#c8c7ff] md:text-2xl">
               Your Result
